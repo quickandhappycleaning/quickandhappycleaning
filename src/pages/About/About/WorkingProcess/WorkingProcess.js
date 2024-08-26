@@ -40,8 +40,9 @@ const WorkingProcess = () => {
                     <Link to="/projectsDetails">Book Online</Link>
                   </h4>
                   <p>
-                    Coingue aten lorem consqua interdum pretium ligaula a semper
-                    mauris easy dictuma
+                    Easily schedule your cleaning service with a few simple
+                    steps. Choose your preferred time, and we’ll handle the
+                    rest.
                   </p>
                 </div>
               </div>
@@ -64,8 +65,8 @@ const WorkingProcess = () => {
                     <Link to="/projectsDetails">Received Data</Link>
                   </h4>
                   <p>
-                    Coingue aten lorem consqua interdum pretium ligaula a semper
-                    mauris easy dictuma
+                    Share your cleaning preferences and requirements. We’ll
+                    ensure everything is tailored to meet your needs.
                   </p>
                 </div>
               </div>
@@ -88,8 +89,8 @@ const WorkingProcess = () => {
                     <Link to="/projectsDetails">Ready Cleaner</Link>
                   </h4>
                   <p>
-                    Coingue aten lorem consqua interdum pretium ligaula a semper
-                    mauris easy dictuma
+                    Our professional cleaner arrives fully equipped and prepared
+                    to make your space shine.
                   </p>
                 </div>
               </div>
@@ -112,8 +113,8 @@ const WorkingProcess = () => {
                     <Link to="/projectsDetails">Start Cleaning</Link>
                   </h4>
                   <p>
-                    Coingue aten lorem consqua interdum pretium ligaula a semper
-                    mauris easy dictuma
+                    Watch as your space is transformed into a spotless, fresh
+                    environment you can enjoy.
                   </p>
                 </div>
               </div>

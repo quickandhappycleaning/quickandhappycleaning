@@ -18,11 +18,12 @@ const AboutFaq = () => {
               <div className="tp-faq-text tp-about-faq-text pt-130 pb-120">
                 <div className="section-title-wrapper-two mb-45">
                   <h5 className="tp-section-subtitle section__sm__title common-yellow-shape mb-20 heading-color-black">
-                    Essential Questions
+                    About Us
                   </h5>
                   <h2 className="tp-section-title heading-color-black">
-                    Every Cleaning Related <br />
-                    Answer is Here
+                    We make your place
+                    <br />
+                    Shine Bright!
                   </h2>
                 </div>
                 <div className="accordion" id="accordionExample">
@@ -36,7 +37,7 @@ const AboutFaq = () => {
                         aria-expanded="true"
                         aria-controls="collapseOne"
                       >
-                        How Can Cleaning Services Improve Your Life?
+                        Who We Are
                       </button>
                     </h2>
                     <div
@@ -46,11 +47,13 @@ const AboutFaq = () => {
                       data-bs-parent="#accordionExample"
                     >
                       <div className="accordion-body">
-                        Quick and Happy Cleaning offer time-saving solutions,
-                        expertise, and health benefits, ensuring thorough
-                        cleaning and peace of mind. With customizable options
-                        and stress reduction, they provide a positive
-                        environment for both residential and commercial spaces.
+                        At Quick and Happy Cleaning, we understand that life can
+                        get busy, and maintaining a clean and organized home can
+                        sometimes feel overwhelming. That’s where we come in!
+                        Our professional cleaning services are designed to give
+                        you back the time you deserve to enjoy the things that
+                        matter most to you, while we take care of the dirty
+                        work.
                       </div>
                     </div>
                   </div>
@@ -64,7 +67,7 @@ const AboutFaq = () => {
                         aria-expanded="false"
                         aria-controls="collapseTwo"
                       >
-                        Do you offer recurring cleaning services?
+                        Mission
                       </button>
                     </h2>
                     <div
@@ -74,9 +77,11 @@ const AboutFaq = () => {
                       data-bs-parent="#accordionExample"
                     >
                       <div className="accordion-body">
-                        Yes, we offer flexible recurring cleaning plans tailored
-                        to your schedule, whether you need weekly, bi-weekly, or
-                        monthly cleanings.
+                        At Quick and Happy Cleaning, our mission is to brighten
+                        your space and lighten your load. We strive to provide
+                        exceptional cleaning services that exceed your
+                        expectations, giving you the freedom to focus on what
+                        truly matters in life.
                       </div>
                     </div>
                   </div>
@@ -90,7 +95,7 @@ const AboutFaq = () => {
                         aria-expanded="false"
                         aria-controls="collapseThree"
                       >
-                        How long will the cleaning service take?
+                        Vision
                       </button>
                     </h2>
                     <div
@@ -100,11 +105,12 @@ const AboutFaq = () => {
                       data-bs-parent="#accordionExample"
                     >
                       <div className="accordion-body">
-                        The duration of the cleaning service depends on various
-                        factors, such as the size of the space, the level of
-                        cleaning required, and any specific requests you may
-                        have. We’ll provide you with an estimated timeframe
-                        based on your needs.
+                        Our vision at Quick and Happy Cleaning is to be the
+                        leading provider of cleaning services, renowned for our
+                        dedication to excellence, reliability, and customer
+                        satisfaction. We aim to enhance the lives of our clients
+                        by creating clean, comfortable environments that promote
+                        happiness and well-being.
                       </div>
                     </div>
                   </div>

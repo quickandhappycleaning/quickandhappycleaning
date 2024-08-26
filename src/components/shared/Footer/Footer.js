@@ -97,11 +97,11 @@ const Footer = () => {
                           <BsInstagram className="icon" />{" "}
                         </i>
                       </a>
-                      <a href="/">
+                      {/* <a href="/">
                         <i>
                           <AiOutlineGoogle className="icon" />{" "}
                         </i>
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                 </div>

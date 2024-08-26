@@ -32,14 +32,21 @@ const AboutArea = () => {
               >
                 <div className="section-title-wrapper mb-30">
                   <h5 className="tp-section-subtitle section__sm__title common-yellow-shape mb-20">
-                    About our Company
+                    Quick and Happy Cleaning
                   </h5>
                   <h2 className="tp-section-title">
                     Best Cleaning Services <br />
                     Makes Difference
                   </h2>
                 </div>
-                <p className="mb-40">Let us make your space shine! </p>
+                <p className="mb-40">
+                  Elevate your cleaning experience with our exclusive range of
+                  services tailored to meet your unique needs. From meticulous
+                  deep cleans to specialized treatments, we offer top-tier
+                  solutions using advanced techniques and eco-friendly products.
+                  Trust our expert team to deliver unparalleled cleanliness that
+                  exceeds your expectations.
+                </p>
 
                 <div className="row mb-10">
                   <div className="col-sm-6">

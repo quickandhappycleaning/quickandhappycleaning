@@ -34,10 +34,10 @@ const Navigation = () => {
                       </div>
                       <div className="tp-header-top-info-single-text">
                         <span className="tp-header-top-info-single-label">
-                          Free Contact
+                          Contact
                         </span>
                         <span className="tp-header-top-info-single-content font-medium">
-                          28/4 Palmal, London
+                          208 Oakfield Dr Unit #303 Brandon, FL 33511
                         </span>
                       </div>
                     </div>
