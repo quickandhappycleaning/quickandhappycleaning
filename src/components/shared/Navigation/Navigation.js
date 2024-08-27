@@ -30,18 +30,23 @@ const Navigation = () => {
                   <div className="tp-header-top-info">
                     <div className="tp-header-top-info-single pr-40 mr-40 border-right-1">
                       <div className="tp-header-top-info-single-icon mr-10">
-                        <i className="flaticon-pin"></i>
+                        <i className="flaticon-phone-call"></i>
                       </div>
                       <div className="tp-header-top-info-single-text">
                         <span className="tp-header-top-info-single-label">
-                          Contact
+                          Hablamos español
                         </span>
                         <span className="tp-header-top-info-single-content font-medium">
-                          208 Oakfield Dr Unit #303 Brandon, FL 33511
+                          <a
+                            href="tel:6562007031"
+                            className="tp-header-top-info-single-content font-medium text-white"
+                          >
+                            +1 (656) 200-7031
+                          </a>
                         </span>
                       </div>
                     </div>
-                    <div className="tp-header-top-info-single">
+                    {/* <div className="tp-header-top-info-single">
                       <div className="tp-header-top-info-single-icon mr-15">
                         <i className="flaticon-email"></i>
                       </div>
@@ -56,7 +61,7 @@ const Navigation = () => {
                           contact@quickandhappycleaning.com
                         </a>
                       </div>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
                 <div className="col-xxl-4 col-xl-2">

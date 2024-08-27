@@ -61,7 +61,10 @@ const Footer = () => {
                       </Link>
                     </div>
                     <h4 className="mb-15">
-                      <a href="tel:8133315461">(813) 331-5461</a>
+                      <a href="tel:8133315461">En (813) 331-5461</a>
+                    </h4>
+                    <h4 className="mb-15">
+                      <a href="tel:6562007031">Es (656) 200-7031</a>
                     </h4>
                     <h6 className="mb-15">
                       {" "}
